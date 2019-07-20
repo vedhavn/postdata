@@ -1,14 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 2" },
-    { "id": 2, "title": "Post 4" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "items" : [ {
+    "desc" : "Ne watch details goes here 1",
+    "id" : 1,
+    "img" : "/img/product1_640x426.jpg",
+    "name" : "Watch 1",
+    "price" : "INR 2001"
+  }, {
+    "desc" : "Ne watch details goes here 2",
+    "id" : 2,
+    "img" : "/img/product1_640x426.jpg",
+    "name" : "Watch 2",
+    "price" : "INR 2002"
+  }, {
+    "desc" : "Ne watch details goes here 3",
+    "id" : 3,
+    "img" : "/img/product1_640x426.jpg",
+    "name" : "Watch 3",
+    "price" : "INR 2003"
+  }, {
+    "desc" : "Ne watch details goes here 4",
+    "id" : 4,
+    "img" : "/img/product1_640x426.jpg",
+    "name" : "Watch 4",
+    "price" : "INR 2004"
+  }, {
+    "desc" : "Ne watch details goes here 5",
+    "id" : 5,
+    "img" : "/img/product1_640x426.jpg",
+    "name" : "Watch 5",
+    "price" : "INR 2005"
+  }, {
+    "desc" : "Ne watch details goes here 6",
+    "id" : 6,
+    "img" : "/img/product1_640x426.jpg",
+    "name" : "Watch 6",
+    "price" : "INR 2006"
+  } ]
 }
