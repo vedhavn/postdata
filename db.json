@@ -1,39 +1,39 @@
 {
   "items" : [ {
-    "desc" : "Ne watch details goes here 1",
+    "desc" : "Exercise to your full potential with a Fitbit Versa™ smart watch featuring touchscreen capabilities, personalized tracking and music control to help reach your fitness goals.",
     "id" : 1,
-    "img" : "/img/product1_640x426.jpg",
-    "name" : "Watch 1",
+    "img" : "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/10082041_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$",
+    "name" : "Versa™ Black Band Touchscreen Smart Watch 39mm",
     "price" : "INR 2001"
   }, {
-    "desc" : "Ne watch details goes here 2",
+    "desc" : "Fitbit's Charge 3 packs an incredible amount of fitness tracking ability into a svelte case of rose gold-tone aluminum on a resilient blue-gray strap. ",
     "id" : 2,
     "img" : "/img/product1_640x426.jpg",
-    "name" : "Watch 2",
+    "name" : "Fitbit Versa™ Peach Band Touchscreen Smart Watch ",
     "price" : "INR 2002"
   }, {
-    "desc" : "Ne watch details goes here 3",
+    "desc" : "Fitbit's Versa™ touch screen smart watch helps you live your best life with personalized feature, continuous tracking and a sleek rose gold aluminum case with a peach elastomer strap.",
     "id" : 3,
     "img" : "/img/product1_640x426.jpg",
-    "name" : "Watch 3",
-    "price" : "INR 2003"
+    "name" : "Fitbit Charge 3 Unisex Black Elastomer Band Touchscreen Smart Watch 22.7mm",
+    "price" : "INR 1,222.00"
   }, {
-    "desc" : "Ne watch details goes here 4",
+    "desc" : "Caravelle presents this professional stainless steel and black leather watch with a high-visibility white, black and red dial.",
     "id" : 4,
     "img" : "/img/product1_640x426.jpg",
-    "name" : "Watch 4",
+    "name" : "NEW! Men's Black Strap Watch 44mm",
     "price" : "INR 2004"
   }, {
-    "desc" : "Ne watch details goes here 5",
+    "desc" : "Shining silver-tone metal gets freshened up with white enamel on Charter Club's multifunction watch. ",
     "id" : 5,
-    "img" : "/img/product1_640x426.jpg",
-    "name" : "Watch 5",
+    "img" : "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/9069442_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$",
+    "name" : "Charter Club Women's White & Silver-Tone Bracelet Watch 32mm, Created for Macy's",
     "price" : "INR 2005"
   }, {
-    "desc" : "Ne watch details goes here 6",
+    "desc" : "A gold-tone bracelet sparkles with the addition of crystals accents on Charter Club's petite watch.",
     "id" : 6,
-    "img" : "/img/product1_640x426.jpg",
-    "name" : "Watch 6",
-    "price" : "INR 2006"
+    "img" : "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/12717625_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$",
+    "name" : "Charter Club Women's Heart Charm Bangle Bracelet Watch 26mm, Created for Macy's",
+    "price" : "INR 4,998.00"
   } ]
 }
