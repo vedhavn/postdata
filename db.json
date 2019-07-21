@@ -2,7 +2,7 @@
   "items" : [ {
     "desc" : "Exercise to your full potential with a Fitbit Versa™ smart watch featuring touchscreen capabilities, personalized tracking and music control to help reach your fitness goals.",
     "id" : 1,
-    "img" : "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/10082041_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$",
+    "img" : "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/10082041_fpx.tif",
     "name" : "Versa™ Black Band Touchscreen Smart Watch 39mm",
     "price" : "INR 2001"
   }, {
@@ -26,13 +26,13 @@
   }, {
     "desc" : "Shining silver-tone metal gets freshened up with white enamel on Charter Club's multifunction watch. ",
     "id" : 5,
-    "img" : "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/9069442_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$",
+    "img" : "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/9069442_fpx.tif",
     "name" : "Charter Club Women's White & Silver-Tone Bracelet Watch 32mm, Created for Macy's",
     "price" : "INR 2005"
   }, {
     "desc" : "A gold-tone bracelet sparkles with the addition of crystals accents on Charter Club's petite watch.",
     "id" : 6,
-    "img" : "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/12717625_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$",
+    "img" : "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/12717625_fpx.tif",
     "name" : "Charter Club Women's Heart Charm Bangle Bracelet Watch 26mm, Created for Macy's",
     "price" : "INR 4,998.00"
   } ]
