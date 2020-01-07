@@ -2,7 +2,34 @@
   "items" : [ {
     
     "id" : 1,
-    "name" : "Versa™ Black Band Touchscreen Smart Watch 39mm",
+    "name" : "Touchscreen Smart Watch 31mm",
+    "price" : "IINR 1,441.00"
+  },
+            {
+    
+    "id" : 2,
+    "name" : "Touchscreen Smart Watch 32mm",
     "price" : "IINR 1,442.00"
-  }]
+  },{
+    
+    "id" : 3,
+    "name" : "Touchscreen Smart Watch 33mm",
+    "price" : "IINR 1,443.00"
+  },{
+    
+    "id" : 4,
+    "name" : "Touchscreen Smart Watch 34mm",
+    "price" : "IINR 1,444.00"
+  },{
+    
+    "id" : 5,
+    "name" : "Touchscreen Smart Watch 35mm",
+    "price" : "IINR 1,445.00"
+  },{
+    
+    "id" : 6,
+    "name" : "Touchscreen Smart Watch 36mm",
+    "price" : "IINR 1,446.00"
+  }
+           ]
 }
