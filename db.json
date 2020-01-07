@@ -3,32 +3,64 @@
     
     "id" : 1,
     "name" : "Touchscreen Smart Watch 31mm",
-    "price" : "IINR 1,441.00"
+    "price" : "IINR 1,441.00",
+    "discount" : "20%",
+    "color" : "red",
+    "size" : "small",
+    "reviews": "1",
+    "stock": "yes"
+    
   },
             {
     
     "id" : 2,
     "name" : "Touchscreen Smart Watch 32mm",
-    "price" : "IINR 1,442.00"
+    "price" : "IINR 1,442.00",
+              "discount" : "10%",
+    "color" : "red",
+    "size" : "Medium",
+    "reviews": "2",
+    "stock": "no"
   },{
     
     "id" : 3,
     "name" : "Touchscreen Smart Watch 33mm",
-    "price" : "IINR 1,443.00"
+    "price" : "IINR 1,443.00",
+    "discount" : "30%",
+    "color" : "green",
+    "size" : "large",
+    "reviews": "2",
+    "stock": "yes"
   },{
     
     "id" : 4,
     "name" : "Touchscreen Smart Watch 34mm",
-    "price" : "IINR 1,444.00"
+    "price" : "IINR 1,444.00",
+    "discount" : "20%",
+    "color" : "green",
+    "size" : "Medium",
+    "reviews": "3",
+    "stock": "Yes"
   },{
     
     "id" : 5,
     "name" : "Touchscreen Smart Watch 35mm",
-    "price" : "IINR 1,445.00"
+    "price" : "IINR 1,445.00",
+    "discount" : "20%",
+    "color" : "green",
+    "size" : "Medium",
+    "reviews": "3",
+    "stock": "Yes"
   },{
     
     "id" : 6,
     "name" : "Touchscreen Smart Watch 36mm",
-    "price" : "IINR 1,446.00"
+    "price" : "IINR 1,446.00",
+    "discount" : "10%",
+    "color" : "blue",
+    "size" : "small",
+    "reviews": "1",
+    "stock": "Yes"
+    
   }]
 }
